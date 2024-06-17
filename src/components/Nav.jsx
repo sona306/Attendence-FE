@@ -16,18 +16,15 @@ const Nav = () => {
                                 <li class="nav-item">
                                     <img src="https://fisat.ac.in/wp-content/themes/fisat2022/assets/testcopy.png" height="70" width="100" class="card-img-top" alt="..." />
                                 </li>
-                                {/* <li class="nav-item">
-                                    <Link class="nav-link" to="/signin">Home</Link>
-                                </li>
                                 <li class="nav-item">
-                                    <Link class="nav-link active" aria-current="page" to="/signin">SignIn</Link>
+                                    <Link class="nav-link" to="/">Home</Link>
                                 </li>
                                 <li class="nav-item">
                                     <Link class="nav-link" to="/signup">SignUp</Link>
                                 </li>
                                 <li class="nav-item">
                                     <Link class="nav-link" to="/viewbus">View</Link>
-                                </li> */}
+                                </li>   
 
                             </ul>
                         </div>
