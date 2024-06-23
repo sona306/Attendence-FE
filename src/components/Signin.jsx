@@ -15,8 +15,8 @@ const Signin = () => {
                                 <h6 className="card-subtitle mb-2 text-body-secondary">Welcome to user login</h6>
                                 <div className="row">
                                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12"><br></br>
-                                        <label htmlFor="" className="form-label" >Name</label>
-                                        <input type="text" className="form-control" placeholder="Enter your name" />
+                                        <label htmlFor="" className="form-label" >Email</label>
+                                        <input type="text" className="form-control" placeholder="Enter your email" />
                                     </div>
                                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12"><br></br>
                                         <label htmlFor="" className="form-label">Password</label>
